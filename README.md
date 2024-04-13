@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sriprasadtg
 - 👀 I’m interested in System Administration & Automation
 - 🌱 I’m currently learning Git
+- Mastering Ansible 
 
 
 <!---
